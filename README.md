@@ -7,4 +7,6 @@
 # 链接
   由于github对上传文件大小有限制，这里放上项目资源的下载链接。  
   1. 84万篇古诗文与3万名作者数据  
+  链接：https://pan.baidu.com/s/1gCZ9Nqmp0KyoXVZtEWh1NQ 提取码：6666
   2.  打包好的古诗文检索软件(Windows)  
+  链接：https://pan.baidu.com/s/1arqfT6NExM0tOYq02NXQ5Q 提取码：6666
