@@ -12,9 +12,9 @@ window.iconphoto(False, tk.PhotoImage(file='图标.png'))
 # 获取屏幕的分辨率
 Pwidth = win32api.GetSystemMetrics(win32con.SM_CXSCREEN)
 Pheight = win32api.GetSystemMetrics(win32con.SM_CYSCREEN)
-window.minsize(Pwidth//3, Pheight//2)
+window.minsize(1300, 1100)
 window.title('古诗文')
-window.geometry('{}x{}'.format(Pwidth//3+100,Pheight//2+50))
+window.geometry('{}x{}'.format(1300,1100))
 
 search_text=""
 result_list_works=[]
