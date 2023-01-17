@@ -8,7 +8,7 @@ def search_work(search_text):
     result=[]
     i=0
     for work in works:
-        if (search_text in ''.join(work["Content"])) | (search_text in work["Title"]):
+        if (search_text in work["Content"]) | (search_text in work["Title"]):
             result.append(work)
             i=i+1
         if i>=799:
