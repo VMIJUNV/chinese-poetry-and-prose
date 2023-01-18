@@ -3,6 +3,8 @@ import win32api, win32con
 import search
 import tkinter as tk
 from tkinter import *
+
+
 window =tk.Tk()
 ctypes.windll.shcore.SetProcessDpiAwareness(1)
 ScaleFactor=ctypes.windll.shcore.GetScaleFactorForDevice(0)
@@ -12,9 +14,9 @@ window.iconphoto(False, tk.PhotoImage(file='图标.png'))
 # 获取屏幕的分辨率
 Pwidth = win32api.GetSystemMetrics(win32con.SM_CXSCREEN)
 Pheight = win32api.GetSystemMetrics(win32con.SM_CYSCREEN)
-window.minsize(1300, 1100)
-window.title('古诗文')
-window.geometry('{}x{}'.format(1300,1100))
+window.minsize(400, 400)
+window.title('古诗词文')
+window.geometry('{}x{}'.format(int(800*(ScaleFactor/100)),int(650*(ScaleFactor/100))))
 
 search_text=""
 result_list_works=[]
