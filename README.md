@@ -3,7 +3,6 @@
   
 >基于整理的古诗文数据库，利用Python写了个可以本地化查询古诗文的GUI。即使在没有网络的情况下也可以愉快的学习古诗词。  
 ![image](https://github.com/VMIJUNV/chinese-poetry-and-prose/blob/master/%E8%BD%AF%E4%BB%B6%E6%BC%94%E7%A4%BA1.png)
-  
 ![image](https://github.com/VMIJUNV/chinese-poetry-and-prose/blob/master/%E8%BD%AF%E4%BB%B6%E6%BC%94%E7%A4%BA2.png)
   
 >由于数据的所有信息来自互联网，可能会有一些错误，同时也可能会有常见古诗词文的缺失。本项目仅限于交流学习。
