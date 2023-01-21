@@ -11,4 +11,7 @@
   1. 84万篇古诗文与3万名作者数据  
   链接：https://pan.baidu.com/s/1gCZ9Nqmp0KyoXVZtEWh1NQ 提取码：6666
   2.  打包好的古诗文检索软件(Windows)  
-  链接：https://pan.baidu.com/s/1_ba5FUdkCPpejfPIkQEQFw 提取码：6666 
+  链接：https://pan.baidu.com/s/1_ba5FUdkCPpejfPIkQEQFw 提取码：6666   
+    
+  演示视频：
+  https://www.bilibili.com/video/BV1s84y1a7j4
